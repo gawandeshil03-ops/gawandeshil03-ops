@@ -184,3 +184,29 @@ FastAPI-based document intelligence and RAG backend.
 ### Software Engineering • Backend Systems • Data • AI
 
 </div>
+
+<!-- WIPRO-ELITE-PORTFOLIO:START -->
+## Software Engineering Portfolio
+
+**Java • Spring Boot • SQL • Python • REST • Docker • RAG**
+
+### Featured Engineering Projects
+
+**Enterprise Service Operations & SLA Platform**  
+Problem: structured ticket lifecycle, SLA enforcement, escalation and auditable service workflows.  
+[Open Repository](https://github.com/gawandeshil03-ops/enterprise-service-operations-platform)
+
+**Banking Transaction Processing API**  
+Problem: reliable transaction-oriented business workflows with REST APIs and relational persistence.  
+[Open Repository](https://github.com/gawandeshil03-ops/banking-transaction-processing-api)
+
+**Enterprise RAG Knowledge API**  
+Problem: grounded document question-answering using retrieval, embeddings and vector search.  
+[Open Repository](https://github.com/gawandeshil03-ops/enterprise-rag-knowledge-api)
+
+### Engineering Focus
+
+OOP • Java • SQL • REST APIs • Spring Boot • Databases • Testing • Git • Docker • AI/RAG
+
+> Portfolio repositories preserve applicable upstream open-source licenses and distinguish upstream functionality from personal modifications.
+<!-- WIPRO-ELITE-PORTFOLIO:END -->
