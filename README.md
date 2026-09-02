@@ -169,6 +169,12 @@ Inventory, warehouse and transaction-processing backend.
 
 ### [Secure Document Intelligence API](https://github.com/gawandeshil03-ops/secure-document-intelligence-api)
 
+
+
+## CONTACT :
+9172937014
+gawandeshil9@gmail.com
+
 FastAPI-based document intelligence and RAG backend.
 
 ---
