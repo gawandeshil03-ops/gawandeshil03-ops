@@ -1,212 +1,354 @@
-﻿<div align="center">
+<div align="center">
 
-# SHIL GAWANDE
+SHIL GAWANDE
 
-### Software Engineering Portfolio
+Data • Business Intelligence • AI • Automation
 
-**Java • Spring Boot • Python • FastAPI • SQL • Docker • RAG**
+Python • SQL • Power BI • PostgreSQL • FastAPI • Salesforce • Machine Learning • ETL
 
-Engineering portfolio focused on enterprise backend systems, transaction-processing applications, data-intensive APIs and AI-enabled software.
+
+
+
+
 
 </div>
 
----
+⚡ 30-Second Profile
 
-## Featured Engineering Projects
+I build practical projects across data analytics, business intelligence, data engineering, CRM automation, machine learning, and applied AI.
 
-<table>
-<tr>
-<td width="33%" valign="top">
+My work focuses on one idea:
 
-### 01 — ServiceDesk Issue Management Platform
+Turn messy data and repetitive workflows into systems that are easier to understand, automate, and act on.
 
-**Java • Spring Boot • JPA • REST • SQL**
+Based in: Pune, India
+Education: B.E. Electronics & Telecommunication, 2026
+Current focus: Data • BI • AI • Automation
 
-Enterprise service-management backend centered on ticket lifecycle management, SLA processing, workflow automation, permissions, reporting and auditability.
+🧭 Choose Your Path
 
-**Engineering focus**
-- Ticket lifecycle management
-- SLA policies and escalation
-- Roles and permissions
-- Workflow automation
-- Audit logging
-- Webhooks
-- WebSockets
-- REST API architecture
-- Automated testing
+If you are...
 
-**Architecture**
+Start here
 
-`Client → REST Controllers → Service Layer → JPA → Database`
+👔 Recruiter
 
-<br>
+4 Signature Projects → Skills → Portfolio
 
-[**Open Repository →**](https://github.com/gawandeshil03-ops/servicedesk-issue-management-platform)
+🧑‍💻 Tech Lead
 
-</td>
+AI Invoice Platform → SupplyIQ → GitHub Repositories
 
-<td width="33%" valign="top">
+📊 Analytics / BI Team
 
-### 02 — Smart Inventory & Order Processing Engine
+SupplyIQ → Telecom Churn
 
-**Java • Spring Boot • MySQL • JPA • REST**
+🤖 AI / Automation Team
 
-Multi-warehouse inventory backend for products, warehouses, suppliers, purchases, sales, stock movement and inventory transfers.
+Enterprise AI Invoice Processing → Portfolio
 
-**Engineering focus**
-- Multi-warehouse inventory
-- Product management
-- Supplier management
-- Purchase processing
-- Sales processing
-- Stock transfers
-- Low-stock handling
-- Relational data modeling
-- Transaction-oriented backend design
+🚀 Signature Projects
 
-**Architecture**
+1 — Enterprise AI Invoice Processing Platform
 
-`Client → REST Controller → Service Layer → JPA → MySQL`
+Domain: AI Engineering • Intelligent Document Processing • Enterprise Automation
+Stack: Python • FastAPI • PostgreSQL • Redis • OpenAI • pgvector • React • Docker
 
-<br>
+Problem
 
-[**Open Repository →**](https://github.com/gawandeshil03-ops/smart-inventory-order-processing-engine)
+Invoice processing often requires repeated manual extraction, validation, review, and approval steps.
 
-</td>
+What the project demonstrates
 
-<td width="33%" valign="top">
+An enterprise-style workflow for:
 
-### 03 — Secure Document Intelligence API
+flowchart LR
+    A[Invoice Upload] --> B[Processing Queue]
+    B --> C[AI Extraction]
+    C --> D[Validation Engine]
+    D --> E[Human Review]
+    E --> F[Approve / Reject]
+    F --> G[Audit Trail]
 
-**Python • FastAPI • PostgreSQL • pgvector • RAG • Docker**
+<details>
+<summary><b>🔍 View technical depth</b></summary>
 
-Document-intelligence backend for document ingestion, chunking, embeddings, semantic retrieval and Retrieval-Augmented Generation.
+FastAPI application structure
 
-**Engineering focus**
-- PDF processing
-- Intelligent chunking
-- Embedding generation
-- Vector similarity search
-- PostgreSQL + pgvector
-- RAG pipeline
-- Streaming responses
-- Rate limiting
-- Structured logging
-- Docker deployment
+PostgreSQL-backed persistence
 
-**Architecture**
+Redis-backed processing workflow
 
-`Document → Chunking → Embeddings → pgvector → Retrieval → LLM`
+Structured AI extraction
 
-<br>
+Validation and review routing
 
-[**Open Repository →**](https://github.com/gawandeshil03-ops/secure-document-intelligence-api)
+Authentication and role-based access concepts
 
-</td>
-</tr>
-</table>
+Audit logging
 
----
+Vector similarity search with pgvector
 
-## Portfolio Architecture
+React reviewer workflow
 
-```text
-                     SOFTWARE ENGINEERING PORTFOLIO
-                                  |
-            +---------------------+---------------------+
-            |                     |                     |
-            v                     v                     v
-      ServiceDesk           Inventory Engine      Document AI API
-            |                     |                     |
-            v                     v                     v
-    Java + Spring Boot    Java + Spring Boot      Python + FastAPI
-            |                     |                     |
-            v                     v                     v
-    Enterprise Systems     Transaction Systems        AI / RAG
-```
+Docker / CI / observability-oriented components
 
----
-
-## Core Technology Stack
-
-| Area | Technologies |
-|---|---|
-| Backend | Java, Spring Boot, Python, FastAPI |
-| APIs | REST APIs, Webhooks, WebSockets |
-| Databases | MySQL, PostgreSQL, SQL, pgvector |
-| Persistence | JPA, Hibernate, SQLAlchemy |
-| AI / Data | Embeddings, Vector Search, RAG |
-| DevOps | Git, GitHub, Docker, Docker Compose |
-| Engineering | Testing, Validation, Logging, Error Handling |
-
----
-
-## Engineering Focus
-
-I am building my portfolio around practical software-engineering problems involving:
-
-- Enterprise backend development
-- REST API design
-- Relational database modeling
-- Transaction-processing systems
-- Multi-module application architecture
-- AI-enabled backend applications
-- Vector search and RAG
-- Containerized deployment
-- Testing and maintainable code structure
-
----
-
-## Explore the Portfolio
-
-### [ServiceDesk Issue Management Platform](https://github.com/gawandeshil03-ops/servicedesk-issue-management-platform)
-
-Enterprise issue-management and workflow platform.
-
-### [Smart Inventory & Order Processing Engine](https://github.com/gawandeshil03-ops/smart-inventory-order-processing-engine)
-
-Inventory, warehouse and transaction-processing backend.
-
-### [Secure Document Intelligence API](https://github.com/gawandeshil03-ops/secure-document-intelligence-api)
+</details>
 
 
 
-## CONTACT :
-9172937014
-gawandeshil9@gmail.com
+2 — SupplyIQ — Supply Chain Analytics & BI
 
-FastAPI-based document intelligence and RAG backend.
+Domain: Supply Chain • Analytics • Business Intelligence
+Stack: Python • SQL • Power BI • Jupyter • CSV
 
----
+Problem
+
+Inventory, supplier, warehouse, and order data can be difficult to interpret when spread across multiple operational sources.
+
+What the project demonstrates
+
+flowchart LR
+    A[Operational Data] --> B[Python Processing]
+    B --> C[SQL Data Layer]
+    C --> D[Analytics Queries]
+    D --> E[Power BI]
+    E --> F[Decision Support]
+
+<details>
+<summary><b>📊 Explore the analytics focus</b></summary>
+
+The project includes work around:
+
+Inventory
+
+Products
+
+Suppliers
+
+Warehouses
+
+Orders
+
+Supply-chain KPIs
+
+SQL-based analytics
+
+Power BI reporting
+
+Executive-oriented outputs
+
+</details>
+
+
+
+3 — Salesforce RevOps Automation Portfolio
+
+Domain: CRM • Revenue Operations • Business Process Automation
+Stack: Salesforce • Flow Builder • Excel • Power BI • DAX
+
+Problem
+
+Sales teams need controlled access, lead prioritization, pipeline visibility, and consistent revenue forecasting.
+
+What the project demonstrates
+
+flowchart LR
+    A[Permission Architecture] --> B[Lead Scoring]
+    B --> C[Opportunity Pipeline]
+    C --> D[Revenue Forecast]
+    D --> E[Power BI / DAX]
+
+<details>
+<summary><b>⚙️ View business automation components</b></summary>
+
+Salesforce permission architecture
+
+Record-triggered lead scoring
+
+CRM workflow automation
+
+Revenue forecast modeling
+
+Excel-based business modeling
+
+Power BI reporting
+
+DAX measures
+
+Revenue Operations use case
+
+</details>
+
+
+
+4 — Telecom Churn Intelligence System
+
+Domain: Customer Analytics • Machine Learning • Retention Intelligence
+Stack: Python • SQL • Jupyter • Machine Learning • Docker
+
+Problem
+
+Customer churn signals are difficult to act on when they remain hidden inside raw customer records.
+
+What the project demonstrates
+
+flowchart LR
+    A[Customer Data] --> B[Data Preparation]
+    B --> C[Python + SQL Analysis]
+    C --> D[Churn Model]
+    D --> E[Application Components]
+    E --> F[Retention Intelligence]
+
+<details>
+<summary><b>🧠 View project focus</b></summary>
+
+Customer data preparation
+
+Exploratory analysis
+
+SQL / Python workflow
+
+Persisted ML artifacts
+
+Dockerized components
+
+Churn-oriented decision support
+
+</details>
+
+
+
+🧰 Technical Toolbox
+
+<details open>
+<summary><b>📊 Analytics & BI</b></summary>
+
+Power BI Excel Power Query DAX Tableau EDA Data Visualization KPI Reporting Dashboard Development
+
+</details>
+
+<details>
+<summary><b>💻 Programming & Data</b></summary>
+
+Python SQL PostgreSQL MySQL Pandas NumPy Jupyter
+
+</details>
+
+<details>
+<summary><b>⚙️ Data Engineering</b></summary>
+
+ETL/ELT Data Pipelines REST APIs FastAPI Docker AWS S3 AWS Glue Databricks
+
+</details>
+
+<details>
+<summary><b>🤖 AI & Automation</b></summary>
+
+Machine Learning RAG Embeddings LLM Applications AI Workflows Salesforce Flow CRM Automation
+
+</details>
+
+🌌 Project Universe
+
+Explore more work by domain:
+
+Domain
+
+Examples
+
+📊 Analytics & BI
+
+Enterprise BI & Data Warehouse, Sales Performance BI, Customer RFM / CLV
+
+🤖 AI
+
+Enterprise RAG Knowledge API, Secure Document Intelligence, Vercel Lead Agent
+
+⚙️ Data Engineering
+
+Production-Style Airflow ETL, Energy Weather Data Warehouse
+
+📦 Supply Chain
+
+SupplyIQ, Stockout Risk Intelligence, Retail Inventory Analytics
+
+🏥 Healthcare
+
+Healthcare Revenue Cycle, Insurance Claims, Hospital Readmission
+
+🏭 Manufacturing
+
+Predictive Maintenance, OEE Analytics, Quality / Defect Analytics
+
+💰 Finance
+
+Financial Statement Sentiment, Credit Risk Analytics
+
+🧪 Product / SaaS
+
+SaaS Analytics, Feature Adoption & A/B Testing
+
+
+
+🧠 How I Think
+
+<details>
+<summary><b>Thought 01 — On Learning</b></summary>
+
+I learn tools faster when I have a real problem to solve with them.
+
+</details>
+
+<details>
+<summary><b>Thought 02 — On Analytics</b></summary>
+
+A dashboard matters when it helps someone make a better decision.
+
+</details>
+
+<details>
+<summary><b>Thought 03 — On Automation</b></summary>
+
+Automation is useful when it removes repetition without removing judgment.
+
+</details>
+
+<details>
+<summary><b>Thought 04 — On AI</b></summary>
+
+The interesting part of AI is not just calling a model. It is designing the system around the model.
+
+</details>
+
+📈 GitHub Activity
 
 <div align="center">
 
-### Software Engineering • Backend Systems • Data • AI
+
+
+
 
 </div>
 
-<!-- WIPRO-ELITE-PORTFOLIO:START -->
-## Software Engineering Portfolio
+👔 Recruiter Quick View
 
-**Java • Spring Boot • SQL • Python • REST • Docker • RAG**
+Target Areas: Data Analytics • BI • Data Engineering • AI Automation • RevOps
+Location: Pune, India
+Education: B.E. Electronics & Telecommunication, 2026
 
-### Featured Engineering Projects
+Best places to evaluate my work
 
-**Enterprise Service Operations & SLA Platform**  
-Problem: structured ticket lifecycle, SLA enforcement, escalation and auditable service workflows.  
-[Open Repository](https://github.com/gawandeshil03-ops/enterprise-service-operations-platform)
+Interactive Portfolio
 
-**Banking Transaction Processing API**  
-Problem: reliable transaction-oriented business workflows with REST APIs and relational persistence.  
-[Open Repository](https://github.com/gawandeshil03-ops/banking-transaction-processing-api)
+Enterprise AI Invoice Processing
 
-**Enterprise RAG Knowledge API**  
-Problem: grounded document question-answering using retrieval, embeddings and vector search.  
-[Open Repository](https://github.com/gawandeshil03-ops/enterprise-rag-knowledge-api)
+SupplyIQ
 
-### Engineering Focus
+Salesforce RevOps Automation
 
-OOP • Java • SQL • REST APIs • Spring Boot • Databases • Testing • Git • Docker • AI/RAG
+Telecom Churn Intelligence
 
-> Portfolio repositories preserve applicable upstream open-source licenses and distinguish upstream functionality from personal modifications.
-<!-- WIPRO-ELITE-PORTFOLIO:END -->
+<div align="center">
+
+Let's Connect
