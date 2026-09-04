@@ -336,90 +336,125 @@ Valuation workflow
 
 </div>
 
-04 / How I Think
+# 04 · How I Think
+
+> **Start with the problem.**  
+> A tool matters only when I understand the decision or workflow it should improve.
+
+> **Build the path.**  
+> I think in systems: **source → logic → output → user**.
+
+> **Make it inspectable.**  
+> A strong project should explain itself through code, architecture and documentation.
+
+> **Automate repetition, not judgment.**  
+> Good automation removes mechanical work while keeping important decisions visible.
+
+---
+
+# 05 · Current Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Building
+
+- Data + AI workflows
+- Analytics systems
+- API-driven applications
+- Business automation
+- Production-style data pipelines
+
+</td>
+
+<td width="50%" valign="top">
+
+### Exploring Deeper
+
+- PostgreSQL
+- Data Engineering
+- Applied AI / RAG
+- Analytics Engineering
+- CRM / RevOps Automation
+
+</td>
+</tr>
+</table>
+
+---
+
+# 06 · Recruiter Shortcut
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 30 Seconds
+
+**Data • BI • AI • Automation**
+
+Python · SQL · Power BI  
+PostgreSQL · FastAPI  
+Salesforce · ETL
+
+</td>
+
+<td width="33%" align="center">
+
+### Best Evidence
+
+[AI Invoice Platform](https://github.com/gawandeshil03-ops/FDE-Enterprise-AI-Invoice-Processing-Platform)
+
+[SupplyIQ](https://github.com/gawandeshil03-ops/supplyiq-portfolio)
+
+[Salesforce RevOps](https://github.com/gawandeshil03-ops/Salesforce-RevOps-Automation-Portfolio)
+
+</td>
+
+<td width="33%" align="center">
+
+### Profile
+
+**Pune, India**
+
+B.E. Electronics & Telecommunication
+
+**2026**
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-
-
-
-
-01 · Start with the problem
-
-A tool is useful only when I know what decision or workflow it improves.
-
-02 · Build the path
-
-I think in systems: source → logic → output → user.
-
-03 · Make it inspectable
-
-A project should explain itself through code, architecture and documentation.
-
-04 · Automate repetition, not judgment
-
-Good automation removes mechanical work while keeping important decisions visible.
+<a href="https://gawandeshil03-ops.github.io/">
+<img src="https://img.shields.io/badge/ENTER_INTERACTIVE_PORTFOLIO-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </div>
 
-05 / GitHub Signal
+---
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gawandeshil03-ops&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gawandeshil03-ops&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
-
-<br/>
-
-<img width="82%" src="https://github-readme-activity-graph.vercel.app/graph?username=gawandeshil03-ops&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
-<!-- External widgets can occasionally be unavailable or cached. The actual repositories above remain the source of truth. -->
-
-06 / One More Thing
+# 07 · Hidden Terminal
 
 <details>
-<summary><b>🧩 Open the hidden terminal</b></summary>
-<br/>
+<summary><b>Open terminal</b></summary>
 
-shil@portfolio:~$ help
+```bash
+shil@portfolio:~$ whoami
+Data + Analytics + AI builder
 
-available commands
-────────────────────────────────────────────
-whoami      → data + analytics + AI builder
-projects    → github.com/gawandeshil03-ops
-portfolio   → gawandeshil03-ops.github.io
-focus       → useful systems over decorative demos
-status      → building, learning, shipping
+shil@portfolio:~$ focus
+Useful systems over decorative demos
+
+shil@portfolio:~$ projects
+github.com/gawandeshil03-ops
+
+shil@portfolio:~$ portfolio
+gawandeshil03-ops.github.io
 
 shil@portfolio:~$ philosophy
-> Build something that makes the next decision easier.
+Build something that makes the next decision easier.
 
 shil@portfolio:~$ _
-
-Easter egg unlocked. The actual interactive terminal lives on my portfolio.
-
-</details>
-
-<div align="center">
-
-Want the full experience?
-
-<a href="https://gawandeshil03-ops.github.io/"><img src="https://img.shields.io/badge/ENTER_INTERACTIVE_PORTFOLIO-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-
-<br/><br/>
-
-Open to conversations around Data Analytics · BI · Data Engineering · Applied AI · Automation
-
-<a href="https://www.linkedin.com/in/shilgawande2004">LinkedIn</a>
- • 
-<a href="mailto:gawandeshil9@gmail.com">Email</a>
- • 
-<a href="https://github.com/gawandeshil03-ops">GitHub</a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0B1020,45:111827,100:0EA5E9"/>
-
-</div>
